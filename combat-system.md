@@ -8,7 +8,7 @@ In the times of the Roman Empire, war was common, and often large armies fought 
 
 ## Unit types
 
-Three different types of units have been engaged in battles - Infantry, Archers, and Cavalry. Each unit type
+Three distinct unit types engage in battles: Infantry, Archers, and Cavalry. Each unit has situational strengths and weaknesses when facing others. Unlike a simple rock-paper-scissors system, where one unit always dominates another, the combat system offers a more conditional and realistic experience. This design adds complexity to gameplay but rewards players who employ deeper strategic thinking and leadership.
 
 ## Orders and Execution
 
